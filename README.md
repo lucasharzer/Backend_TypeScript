@@ -31,6 +31,11 @@ npm start
 
 Rodando no http://localhost:4000
 
+Para acesso ao banco de dados pelo prisma
+```bash
+npx prisma studio
+```
+
 # Resultado
 
 Conectar o GitHub e pegar o code:
