@@ -66,7 +66,7 @@ Visualizar informações do usuário:
 Acesso ao banco de dados pelo prisma:
 
 <span>
-      <img src="https://user-images.githubusercontent.com/85804895/139563274-5f5eed79-baee-43a5-abe8-6ab8e61295df.gif", width=900>
+      <img src="https://user-images.githubusercontent.com/85804895/139563368-b15b037a-aee8-4fa0-b07c-8a06bed4ea32.gif", width=900>
 </span>
 
 # Agradecimentos
