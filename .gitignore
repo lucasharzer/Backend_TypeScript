@@ -1,0 +1,5 @@
+node_modules
+# Preencher o próprio arquivo .env 
+.env
+*.txt
+package-lock.json
