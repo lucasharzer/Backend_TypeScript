@@ -33,10 +33,41 @@ Rodando no http://localhost:4000
 
 # Resultado
 
-Pegar o code
+Conectar o GitHub e pegar o code:
 
 <span>
       <img src="https://user-images.githubusercontent.com/85804895/139563007-de68958d-a665-4434-bb71-c98ec5cfbe6f.gif", width=900>
 </span>
+
+Autenticar o code:
+
+<span>
+      <img src="https://user-images.githubusercontent.com/85804895/139563040-3403da99-4eb3-4506-ae00-f0b528cd0866.gif", width=900>
+</span>
+
+Criar uma mensagem:
+
+<span>
+      <img src="https://user-images.githubusercontent.com/85804895/139563061-43eefc25-d360-4eb3-84d4-872c4d469759.gif", width=900>
+</span>
+
+Listar as 3 últimas mensagens:
+
+<span>
+      <img src="https://user-images.githubusercontent.com/85804895/139563076-314e4173-fd67-49f0-b0d6-accd666a24c1.gif", width=900>
+</span>
+
+Visualizar informações do usuário:
+
+<span>
+      <img src="", width=900>
+</span>
+
+Acesso ao banco de dados pelo prisma:
+
+<span>
+      <img src="https://user-images.githubusercontent.com/85804895/139563123-4e790881-7998-48b7-91e6-2dbfca1e3e33.gif", width=900>
+</span>
+
 
 
