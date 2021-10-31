@@ -42,7 +42,7 @@ Conectar o GitHub e pegar o code:
 Autenticar o code:
 
 <span>
-      <img src="https://user-images.githubusercontent.com/85804895/139563040-3403da99-4eb3-4506-ae00-f0b528cd0866.gif", width=900>
+      <img src="https://user-images.githubusercontent.com/85804895/139563211-897780dd-e090-4916-bda7-ad48a3693da3.gif", width=900>
 </span>
 
 Criar uma mensagem:
@@ -60,7 +60,7 @@ Listar as 3 últimas mensagens:
 Visualizar informações do usuário:
 
 <span>
-      <img src="", width=900>
+      <img src="https://user-images.githubusercontent.com/85804895/139563040-3403da99-4eb3-4506-ae00-f0b528cd0866.gif", width=900>
 </span>
 
 Acesso ao banco de dados pelo prisma:
@@ -68,6 +68,10 @@ Acesso ao banco de dados pelo prisma:
 <span>
       <img src="https://user-images.githubusercontent.com/85804895/139563123-4e790881-7998-48b7-91e6-2dbfca1e3e33.gif", width=900>
 </span>
+
+# Agradecimentos
+
+NWL Heat Rockseat 🚀🚀🚀
 
 
 
