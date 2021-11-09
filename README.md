@@ -1,4 +1,4 @@
-# Aplicação Backend na linguagem Typescript
+# Aplicação Backend na linguagem TypeScript
 
 
 # Definição
